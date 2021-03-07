@@ -1,0 +1,43 @@
+<rss xml:lang="en" version="2.0">
+    <channel>
+        <title>PUCC, O podcast do NUCC</title>
+        <link>https://nucc.dcc.fc.up.pt/</link>
+        <itunes:image href="https://nucc.dcc.fc.up.pt/pucc/capa.png" />
+        <language>pt-pt</language>
+        <lastBuildDate>Sat, 06 Mar 2021 20:00:00 +0000</lastBuildDate>
+        <itunes:author>NUCC-FCUP</itunes:author>
+        <description>
+            Perguntam vocês, o que é o PUCC?
+            É o podcast do NUCC. Aqui podes ouvir conversas, divagações e devaneios com pessoas da área da informática. 
+        </description>
+        <itunes:summary>
+            Perguntam vocês, o que é o PUCC? É o podcast do NUCC. Aqui podes ouvir conversas, divagações e devaneios com pessoas da área da informática.
+        </itunes:summary>
+        <itunes:type>episodic</itunes:type>
+        <itunes:owner>
+            <itunes:name>NUCC-FCUP</itunes:name>
+            <itunes:email>nuccfcup@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Technology" />
+        <itunes:category text="TV & Film">
+            <itunes:category text="After Shows" />
+        </itunes:category>
+        <itunes:explicit>false</itunes:explicit>
+        <item>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:episode>1</itunes:episode>
+            <itunes:season>1</itunes:season>
+            <title>#1 Ensico - Inês Guimarães</title>
+            <description>
+                Vamos estrear o nosso podcast com a Inês Guimarães, que faz parte da ENSICO.
+                A @ensico.pt é uma associação para o Ensino da Computação que tem como missão implementar o pensamento computacional como pratica pedagógica no ensino Básico e Secundário.
+                Propõe um programa e metas curriculares que promovem a literacia e ética digital, assente no domínio das Ciências da Computação.
+            </description>
+            <enclosure length="114812551" type="audio/mpeg" url="https://nucc.dcc.fc.up.pt/pucc/ep1/PUCC_ep1.mp3" />
+            <itunes_image href="https://nucc.dcc.fc.up.pt/pucc/ep1/capa_ep1.png" />
+            <guid>pucc001</guid>
+            <pubDate>Sat, 06 Mar 2021 20:00:00 GMT</pubDate>
+            <itunes:explicit>false</itunes:explicit>
+        </item>
+    </channel>
+</rss>
