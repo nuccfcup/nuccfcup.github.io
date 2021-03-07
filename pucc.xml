@@ -2,6 +2,7 @@
     <channel>
         <title>PUCC, O podcast do NUCC</title>
         <link>https://nucc.dcc.fc.up.pt/</link>
+        <atom:link href="https://media.rss.com/pucc/feed.xml" rel="self" type="application/rss+xml" />
         <itunes:image href="https://nucc.dcc.fc.up.pt/pucc/capa.png" />
         <language>pt-pt</language>
         <lastBuildDate>Sat, 06 Mar 2021 20:00:00 +0000</lastBuildDate>
